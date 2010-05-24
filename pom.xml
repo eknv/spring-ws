@@ -178,10 +178,10 @@
             </goals>
           </execution>
         </executions>
-        <configuration>
-          <!--<mainClass>weather.client.SpringClient</mainClass>-->
+        <!--<configuration>
+          <mainClass>weather.client.SpringClient</mainClass>
           <mainClass>weather.client.Client</mainClass>
-        </configuration>
+        </configuration>-->
       </plugin>
 
 
